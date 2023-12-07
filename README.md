@@ -23,5 +23,5 @@
 
 
 <a href="https://www.researchgate.net/profile/Benyamin-Moraditabar" target="_blank" rel="noreferrer">
-  <img src="[URL_TO_RESEARCHGATE_ICON](https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg)https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="32" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/ResearchGate_logo_2015.svg" width="32" height="32" />
 </a>
