@@ -1,8 +1,8 @@
 ### Hi 👋 My name is Benyamin 
 
 <hr>
-🎓  MSc student of biophysics, Tarbiat Modares University (TMU)
 
+🎓  MSc student of biophysics, Tarbiat Modares University (TMU)
 
 🌍  I'm based in Iran, Tehran
 
