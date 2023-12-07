@@ -21,4 +21,4 @@
 ### Socials
 <a href="https://www.linkedin.com/in/benyamin-moraditabar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-[ResearchGate](https://www.researchgate.net/profile/Benyamin-Moraditabar) [![ResearchGate Icon](URL_TO_RESEARCHGATE_ICON)](https://www.researchgate.net/profile/Benyamin-Moraditabar)
+[ResearchGate](https://www.researchgate.net/profile/Benyamin-Moraditabar) [![ResearchGate Icon]([URL_TO_RESEARCHGATE_ICON](https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png)https://pics.freeicons.io/uploads/icons/png/9191096581579517872-512.png)](https://www.researchgate.net/profile/Benyamin-Moraditabar)
