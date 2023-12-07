@@ -1,11 +1,11 @@
 ### Hi 👋 My name is Benyamin 
 
 <hr>
-🎓MSc student of biophysics, Tarbiat Modares University (TMU)
+🎓  MSc student of biophysics, Tarbiat Modares University (TMU)
 
 🌍  I'm based in Iran, Tehran
 
-🔭 I’m currently working on molecular dynamics of protein-peptide interactions
+🔭  I’m currently working on molecular dynamics of protein-peptide interactions
 
 ✉️  You can contact me at benyamin.moraditabar@gmail.com
 
