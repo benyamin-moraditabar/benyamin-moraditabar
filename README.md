@@ -11,9 +11,10 @@
 <hr>
 
 ### Skills
-* Data Engineering
-* Android Development
-* Web Development
+* structural bioinformatics
+* molecular_dynamics_simulation
+* RNA_seq data analysis
+* ML (currently learning)
 
 ### Socials
-<a href="https://www.linkedin.com/in/benyamin-moraditabar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="3">
+<a href="https://www.linkedin.com/in/benyamin-moraditabar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
