@@ -20,8 +20,3 @@
 
 ### Socials
 <a href="https://www.linkedin.com/in/benyamin-moraditabar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-
-<a href="https://www.researchgate.net/profile/Benyamin-Moraditabar" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/ResearchGate_logo_2015.svg" width="32" height="32" />
-</a>
